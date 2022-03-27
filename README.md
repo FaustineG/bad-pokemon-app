@@ -15,3 +15,4 @@ npm i
 npm run serve
 ```
 
+![image](https://user-images.githubusercontent.com/27639429/160277782-6bd0af2d-2696-44dc-9b02-576775f02c53.png)
