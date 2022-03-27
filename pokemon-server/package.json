@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-json-server",
+  "version": "1.0.0",
+  "description": "This repository provides a basic dataset of all Pokemons.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanzeyi/pokemon.json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanzeyi/pokemon.json/issues"
+  },
+  "homepage": "https://github.com/fanzeyi/pokemon.json#readme"
+}
